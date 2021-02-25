@@ -1,2 +1,2 @@
-﻿# codeblog
+﻿# codeblog (Blog Posts)
 #Curso (by Michelli Brito - @brito_michelli) de Spring Boot com Thymeleaf, Bootstrap, PostgreSQL e Spring Security mostrando o passo a passo de como construir um blog.
